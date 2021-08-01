@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+title: My Journey
+author: Keith Hoffman
+email: keithnhoffman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Decriptions and musings documenting my journey to become computer literate, and my subsequent drive to go beyond the early "hello world" statements into the world of data.
+
+# social links
+github_username:  khoffLSU # DO NOT include the @ character, or else the build will fail!
+
+theme: minima
+show_excerpts: true # set to false to remove excerpts on the homepage
