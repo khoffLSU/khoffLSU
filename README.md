@@ -1,3 +1,5 @@
+### A little about myself:
+
 - 👋 Hi, I’m @khoffLSU
 - 👀 I’m interested in ... Faith in Jesus, my family, friends, using data to solve problems, engineering, futbol
 - 🌱 I’m currently learning ... python, data science, github, coding, SQL, Azure, Snowflake
