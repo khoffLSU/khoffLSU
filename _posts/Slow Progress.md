@@ -1,7 +1,6 @@
-
 ---
-title: "LE002 - Slow Progress"
-date: 2023-03-29
+Title: "LE002 - Slow Progress"
+Date: 2023-03-29
 ---
 
 ## Self Taught
